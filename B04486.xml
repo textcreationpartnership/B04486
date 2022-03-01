@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News out of the Strand, or, The brewers misfortune. Being a true relation of a London brewer, who was taken by his own wife and the constable, in bed with two strapping lasses both at once ... the manner how, is more fully exprest in this following ditty. To the tune of, Come my own dear let us dally a while.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04486</idno>
+            <idno type="STC">Wing N1036AA</idno>
+            <idno type="STC">ESTC R180989</idno>
+            <idno type="EEBO-CITATION">47012553</idno>
+            <idno type="OCLC">ocm 47012553</idno>
+            <idno type="VID">174519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04486)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174519)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2691:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News out of the Strand, or, The brewers misfortune. Being a true relation of a London brewer, who was taken by his own wife and the constable, in bed with two strapping lasses both at once ... the manner how, is more fully exprest in this following ditty. To the tune of, Come my own dear let us dally a while.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Grove ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 2 illustrations.</note>
+                  <note>Right half-sheet contains: The second part to the same tune.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174519:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>News out of the Strand, OR, The Brewers Misfortune.</head>
+            <argument>
+               <p>Being a true relation of a London Brewer, who was taken by his own Wife and the conſtable, in bed with two ſtrapping Laſſes both at once, he lying in the middle, and they on each ſide. This was done near Co<g ref="char:EOLhyphen"/>vent-Garden on monday the ſeventh day of this preſent July, 1662. about one of the clock in the morn<g ref="char:EOLhyphen"/>ing; the manner how, is more fully expreſt in this following Ditty.</p>
+            </argument>
+            <opener>To the Tune of, Come my own Dear let us dally a while.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>COme liſten a while and I'le tell you a jeſt,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, la, la, la lero,</hi>
+                     </l>
+                  </lg>
+                  <l>There's nothing but truth in my Ditty expreſt,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, la, la, la lero.</hi>
+                     </l>
+                  </lg>
+                  <l>'Tis of a Ranting Brewer which,</l>
+                  <l>Was troubled with a leacherous Itch</l>
+                  <l>And wanted a Whore to coole his bréech,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, la, la, la, lero.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>To be a Whore-monger he was known,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>And yet he had a ſwéet Wife of his own,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>He had good-Ale enough in his own Fat,</l>
+                  <l>And Fleſh in his houſe, yet what of that</l>
+                  <l>The Brewer muſt have a freſh bit for his Cat,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Sure he in luſt did excéedingly burn,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>That no leſſe than two could ſerve his turn,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>If that be true that one Whore can foyle,</l>
+                  <l>Ten men in an hour and make them recoyle,</l>
+                  <l>I fear theſe two wenches the Brewer did ſpoyle,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But that which to many doth ſéeme very ſtrange,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>Theſe Doxies belonged unto the Exchange,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>The Brewer being in great care.</l>
+                  <l>How for his money, to get good ware.</l>
+                  <l>The new Exchange ſifted him to a hair,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>This Brewer was none of your Idle Drones,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with fa, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>For he could pleaſe two wenches at once,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>He'd need be wary that deals with ſuch,</l>
+                  <l>For they will be very apt to grutch,</l>
+                  <l>If one hath too little and to'ther too much,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Theſe Laſſes were none of the ordinary ſort</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>But ſtately young Girls who were uſ'd to the ſport,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>They knew the Brewer to be a brave Lad,</l>
+                  <l>Who fréely would give to make them glad</l>
+                  <l>A draught of the ſweeteſt wort that he had,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>O Was not this a wonderful Riddle,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>Two whores in the Bed, and a knave in the middle,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>But though 'twas odds yet he did not fail,</l>
+                  <l>To pleaſe both the wenches (tooth and nail)</l>
+                  <l>His courage was raiſ'd with a Cup of good A<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Yet mark how at laſt this Brewer did fare,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>His Wife catch'd him napping, as <hi>Moſſe</hi> catch'd his Mare,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>She did ſuſpect him long before</l>
+                  <l>Becauſe he uſ'd to Rant and Roar,</l>
+                  <l>But now ſhe reſolv'd ſhée would finde out his Whore,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And having notice of the place,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>Where he his Laſſes did imbrace,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>To follow him thither ſhe was not afraid</l>
+                  <l>Becauſe ſhe had the Conſtable's aid</l>
+                  <l>And thus the poor Brewer was betraid,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>On monday morning by one of the clock,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>At the firſt crowing of the Cock,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>She ſtept into the Room with a light,</l>
+                  <l>Which to the whores was a terrible ſight</l>
+                  <l>And did the Brewer moſt ſorely affright,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>There ſhe beheld unto her greif</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>That theſe two Laſſes had plaid the théef,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+                  <l>For being in her Husbands lay,</l>
+                  <l>They went ſo often to the beſt Tap,</l>
+                  <l>That ſhe at home could get never a drop,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>But now ſhe good wife will make them both ſure,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa, la, &amp;c</hi>
+                     </l>
+                  </lg>
+                  <l>From being henceforth ſo bold with the Brewer,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la,</hi> &amp;c.</l>
+                  </lg>
+                  <l>They did conſume her husbands gains,</l>
+                  <l>And drank up the Ale whilſt ſhe fed on the grains,</l>
+                  <l>'Tis fit that they ſhould be well paid for their pains</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la,</hi> &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Into the round-houſe theſe Laſſes were put,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la,</hi> &amp;c.</l>
+                  </lg>
+                  <l>A fitting place for each impudent ſlut,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la,</hi> &amp;c.</l>
+                  </lg>
+                  <l>Hereafter let them have a care,</l>
+                  <l>How to a Brewer they ſell their ware,</l>
+                  <l>For fear that <hi>Bridewell</hi> fall to their ſhare,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la,</hi> &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I cannot tell how they'l ſpéed all at laſt,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, la, la, la lero,</hi>
+                     </l>
+                  </lg>
+                  <l>But ſure I am, the worſt is not paſt,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, la, la, la, lero.</hi>
+                     </l>
+                  </lg>
+                  <l>The Brewer ſhould have been more w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe,</l>
+                  <l>And <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ept further off his wenches thighes</l>
+                  <l>For now hee'l be made to pay double Exciſe,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>with a fa la, la, la, la, lero.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London, Printed for Francis Grove on Snow-hill.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
